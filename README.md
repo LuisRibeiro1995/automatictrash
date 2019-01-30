@@ -52,4 +52,4 @@ void loop() {
 }
 ```
 
-![photo: ](photo1.jpg)
+![photo: ](automatictrash.jpg)
