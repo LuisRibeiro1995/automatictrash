@@ -14,8 +14,8 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 ## **Matériel**
 + Arduino
-+ Servo-moteur
-+ Capteur de proximité (HC-SR04)
++ [Servo-moteur](https://www.notion.so/Servo-moteur-e14d30be350848388474c76f5a35ad0d)
++ [Capteur de proximité (HC-SR04)](https://www.notion.so/Capteur-de-proximit-HC-SR04-ada4172375f54d41ac3a6df0b7cc493d)
 
 ## **Montage**
 
