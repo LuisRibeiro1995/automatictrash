@@ -9,8 +9,8 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 
 ## **Bibliothéque utilisée**
-+ #include <Servo.h>
-+ #include <HCSR04.h>
++ [Servo](https://www.arduino.cc/en/reference/servo)
++ [HCSR04](https://github.com/Martinsos/arduino-lib-hc-sr04)
 
 ## **Matériel**
 + Arduino
