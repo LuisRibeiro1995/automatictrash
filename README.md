@@ -5,7 +5,7 @@ Poubelle ouverture automatique
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildcat](https://github.com/wildcat7534)
 
 ## Video :
-[![video](https://img.youtube.com/vi/G3SG6fjiBdg/0.jpg)](https://www.youtube.com/watch?v=G3SG6fjiBdg)
+[![video](https://img.youtube.com/vi/WuTwOEJFxqc/0.jpg)](https://www.youtube.com/watch?v=WuTwOEJFxqc)
 
 
 ## **Bibliothéque utilisée**
