@@ -19,7 +19,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 ## **Montage**
 
-![schema : ](diagram.jpg)
+![schema : ](schemaautomatictrash.jpg)
 
 ## **Code**
 
