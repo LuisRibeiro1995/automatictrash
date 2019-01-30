@@ -21,6 +21,8 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 ![schema : ](diagram.jpg)
 
+## **Code**
+
 ```
 #include <Servo.h>
 #include <HCSR04.h>
